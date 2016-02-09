@@ -1,4 +1,4 @@
-# Toren
+# HeuerSchrift
 
 Typeface created by <a href="www.eliheuer.com">Eli Heuer</a>
 
